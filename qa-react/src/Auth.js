@@ -1,3 +1,4 @@
+// Code from https://auth0.com/blog/react-tutorial-building-and-securing-your-first-app/
 import auth0 from 'auth0-js';
 
 // Auth class w/ 7 Methods
